@@ -1,4 +1,4 @@
-# Python Utility to Kinant Data Security Platfrom AWS Deployment
+# Python Utility for Kinant Data Security Platfrom AWS Deployment
 
 * Website: https://kinant.com/
 
